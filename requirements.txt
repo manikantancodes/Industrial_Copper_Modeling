@@ -1,0 +1,14 @@
+import subprocess
+
+# List of required libraries
+required_libraries = [
+    'streamlit',
+    'pandas',
+    'numpy',
+    'matplotlib',
+    'seaborn',
+    'scikit-learn',
+    'xgboost',
+    # Add more libraries as needed
+]
+
