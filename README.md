@@ -29,7 +29,6 @@ The project consists of the following components:
 - `coppermodel.ipynb`: Python script involves data preprocessing, exploratory data analysis (EDA), feature engineering, model building.
 - `app.py`: Python script containing the Streamlit web application code.
 - `requirements.txt`: File listing the required Python libraries and their versions.
-- `__init__.py`: Empty file to mark the directory as a Python package.
 - `scaling.pkl`: Pickle file containing the scaler for regression model input.
 - `scaling_classify.pkl`: Pickle file containing the scaler for classification model input.
 - `ExtraTreeRegressor.pkl`: Pickle file containing the trained regression model.
