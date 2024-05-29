@@ -7,12 +7,12 @@ This project aims to analyze copper data and build machine learning models for p
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Approach](#approach)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Learning Outcomes](#learning-outcomes)
+
 
 ## Introduction
 
