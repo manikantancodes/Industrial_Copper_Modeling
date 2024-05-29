@@ -57,7 +57,7 @@ The project relies on the following Python libraries:
 
 The specific versions of these libraries are listed in the `requirements.txt` file.
  # Copper Analysis and Prediction Project
-
+## Approach
 
 ### Data Understanding
 - Identify variable types (continuous, categorical) and distributions.
