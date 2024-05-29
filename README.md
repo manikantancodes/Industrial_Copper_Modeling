@@ -106,4 +106,4 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
